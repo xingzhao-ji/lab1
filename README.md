@@ -1,6 +1,5 @@
 # A Kernel Seedling
-This module Adds a virtual file **/proc/count**. Reading that file prints the total number of processes that are
-running right now.
+This module prints the total number of processes that are running right now.
 
 ## Building
 To build the module, run this command in the same directory where the make file is located 
