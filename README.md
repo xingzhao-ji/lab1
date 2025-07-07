@@ -2,7 +2,7 @@
 Uses for_each_process to count processes currently running on the machine and prints the total.
 
 ## Building
-To build the module, run this command in the same directory as the make file
+To build the module, run this command in the same directory where the make file is located 
 ```shell
 make
 ```
