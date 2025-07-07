@@ -1,5 +1,6 @@
 # A Kernel Seedling
-Uses for_each_process to count processes currently running on the machine and prints the total.
+This module Adds a virtual file **/proc/count**. Reading that file prints the total number of processes that are
+running right now.
 
 ## Building
 To build the module, run this command in the same directory where the make file is located 
